@@ -2,16 +2,16 @@ This contains the steps to install the requuired libraries for FPGA:
 1. Install the **fpga.zip** file provided in this directory onto **Desktop**
 2. And extract the zip file in Desktop.
 3. Now open the terminal and type command **cd Desktop/fpga**.
-4. Type **chmod +x setup.sh**
-5. the above command used for makes the scrips and programs of setup.sh file executable.
-6. Now type the command **sudo bash setup.sh**.
-7. The above command takes some time to execute and install all the required files and libraries.
-8. After successfully completing the installation got to **Other Locations --> Computer --> root**
-9. Copy the **Symbiflow, Pygmy-dev** and **arch.tar.gz** and paste them in **"Desktop/fpga"**.
-10. or you can download the arch.tar.gz from the given below link:
-11.   <pre>https://iith-my.sharepoint.com/:u:/g/personal/gadepall_ee_iith_ac_in/Ebot5QHEYXBAo-7n4hnvJu0B8vMrTIdj_COHJC2cmDY1ww?e=bqDxHI</pre>
-7) Make sure that **/desktop/fpga** contains **pygmy-dev**, **setup.sh** and **symbiflow** and zip file **arch.tar.gz**<br>
-8) Next:
+5. Type **chmod +x setup.sh**
+6. the above command used for makes the scrips and programs of setup.sh file executable.
+7. Now type the command **sudo bash setup.sh**.
+8. The above command takes some time to execute and install all the required files and libraries.
+9. After successfully completing the installation got to **Other Locations --> Computer --> root**
+10. Copy the **Symbiflow, Pygmy-dev** and **arch.tar.gz** and paste them in **"Desktop/fpga"**.
+11. or you can download the arch.tar.gz from the given below link:
+12. <pre>https://iith-my.sharepoint.com/:u:/g/personal/gadepall_ee_iith_ac_in/Ebot5QHEYXBAo-7n4hnvJu0B8vMrTIdj_COHJC2cmDY1ww?e=bqDxHI</pre>
+13. Make sure that /desktop/fpga contains pygmy-dev, setup.sh and symbiflow and zip file arch.tar.gz
+14. Next:
    At Home:
    <pre>
    sudo apt update -y <br>
