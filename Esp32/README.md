@@ -1,7 +1,7 @@
 # This code is for utilizing vaman by uploading wifi code into it using the arduino.
 
 1) Follow all the steps as given in **vaman/installation/termuxubuntu/termuxubuntu_esp32.txt**
-2) Find the circuit diagram i.e vaman_esp32 arduino connections ![Alt text](https://github.com/Arun-39874/EmbeddedDesignHub/blob/main/Esp32/circuit_diagram.png)
+2) Complete the arduino connections as shown in below figure ![Alt text](https://github.com/Arun-39874/EmbeddedDesignHub/blob/main/Esp32/circuit_diagram.png)
 
 3) **Or** Download all the files that i provided and do the installations in <b> point3</b>
 4) apt update && apt upgrade <br>
